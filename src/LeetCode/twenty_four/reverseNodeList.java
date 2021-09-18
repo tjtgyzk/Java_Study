@@ -1,5 +1,7 @@
 package LeetCode.twenty_four;
 
+
+
 public class reverseNodeList {
     public ListNode reverseList(ListNode head) {
         ListNode temp1 = null;
@@ -10,6 +12,7 @@ public class reverseNodeList {
             temp1 = temp2;//t1为转向后的第一个节点
             temp2 = temp3;//t2去第二个节点
         }
+
         return temp1;
     }
 

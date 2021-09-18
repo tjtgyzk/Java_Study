@@ -28,13 +28,28 @@ public class List {
     public void show() {
         Node temp = new Node();
         temp = head.getNext();
-        if(head.getNext()==null){
+        if (head.getNext() == null) {
             System.out.println("链表为空");
             return;
         }
-        while(temp!=null){
-            System.out.print(temp.getData()+" ");
+        while (temp != null) {
+            System.out.print(temp.getData() + " ");
             temp = temp.getNext();
+        }
+        System.out.println("");
+
+    }
+
+    //删除节点
+    public void delete(int nice) {
+        if(head.getNext()==null){
+            System.out.println("链表为空");
+        }
+        for (Node temp = head;temp!=null;temp = temp.getNext()){
+            if (temp.getNext().getData()==nice){
+                temp.setNext(temp.getNext().getNext());
+                break;
+            }
         }
     }
 }
