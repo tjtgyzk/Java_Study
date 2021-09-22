@@ -10,7 +10,7 @@ public class Demo {
         n3.next = null;
         reverseNodeList r1 = new reverseNodeList();
         ListNode re = r1.reverseList(n1);
-        System.out.println("   ");
+        System.out.println("");
         System.out.println("123");
     }
 
