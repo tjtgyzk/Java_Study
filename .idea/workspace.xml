@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="9.22">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_9_22_12_45___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021_9_22_12_45___Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/LeetCode/twenty_four/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/LeetCode/twenty_four/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Compute.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Compute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/LinkedList/Josephu/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Stack/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Stack/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/Compute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/Compute.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +49,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="应用程序.Compute">
+  <component name="RunManager" selected="Application.Compute">
     <configuration name="Compute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.Compute" />
+      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.Stack.Compute" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.dataStructure.*" />
+          <option name="PATTERN" value="myStudy.dataStructure.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Compute" />
-        <item itemvalue="应用程序.Demo (2)" />
-        <item itemvalue="应用程序.Demo" />
-        <item itemvalue="应用程序.SparseArr" />
-        <item itemvalue="应用程序.Demo (3)" />
+        <item itemvalue="Application.Compute" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +204,17 @@
     <MESSAGE value="9.22" />
     <option name="LAST_COMMIT_MESSAGE" value="9.22" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myStudy/dataStructure/Compute.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
