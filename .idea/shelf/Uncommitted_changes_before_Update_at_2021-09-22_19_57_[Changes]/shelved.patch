@@ -1,0 +1,82 @@
+Index: src/myStudy/dataStructure/Stack/Demo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/myStudy/dataStructure/Stack/Demo.java b/src/myStudy/dataStructure/Stack/Demo.java
+new file mode 100644
+--- /dev/null	(date 1632226473435)
++++ b/src/myStudy/dataStructure/Stack/Demo.java	(date 1632226473435)
+@@ -0,0 +1,18 @@
++package myStudy.dataStructure.Stack;
++
++public class Demo {
++    public static void main(String[] args) {
++        ArrayStack stack = new ArrayStack(5);
++        stack.push(1);
++        stack.pop();
++        stack.push(1);
++        stack.push(2);
++        stack.push(3);
++        stack.push(4);
++        stack.push(5);
++        stack.push(6);
++        stack.pop();
++        stack.pop();
++        stack.clean();
++    }
++}
+Index: src/myStudy/dataStructure/Stack/ArrayStack.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/myStudy/dataStructure/Stack/ArrayStack.java b/src/myStudy/dataStructure/Stack/ArrayStack.java
+new file mode 100644
+--- /dev/null	(date 1632226551291)
++++ b/src/myStudy/dataStructure/Stack/ArrayStack.java	(date 1632226551291)
+@@ -0,0 +1,44 @@
++package myStudy.dataStructure.Stack;
++
++public class ArrayStack {
++    private int maxsize;
++    private int[] stack;
++    private int top = -1;
++
++    public ArrayStack(int maxsize) {
++        this.maxsize = maxsize;
++        stack = new int[maxsize];
++    }
++
++    public boolean isEmpty() {
++        return top == -1;
++    }
++
++    public boolean isFull() {
++        return top == maxsize - 1;
++    }
++
++    public void push(int num) {
++        if (isFull()) {
++            System.out.println("栈满");
++            return;
++        }
++        top++;
++        stack[top] = num;
++    }
++
++    public int pop() {
++        if (isEmpty()) {
++            //抛出异常
++            throw new RuntimeException("栈空");
++        }
++        return stack[top--];
++    }
++
++    public void clean() {
++        while (!isEmpty()) {
++            System.out.println(pop());
++        }
++    }
++
++}
