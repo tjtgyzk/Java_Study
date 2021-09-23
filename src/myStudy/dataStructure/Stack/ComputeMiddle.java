@@ -2,7 +2,7 @@ package myStudy.dataStructure.Stack;
 
 import java.util.Stack;
 
-public class Compute {
+public class ComputeMiddle {
     public static void main(String[] args) {
         int level = -1;
         Stack<Integer> num = new Stack<Integer>();
