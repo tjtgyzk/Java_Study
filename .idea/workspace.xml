@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="9.24">
-      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/recursion/Queen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/recursion/maze.java" afterDir="false" />
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="9.25">
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/select.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/shell.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Stack/MiddleToLast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Stack/MiddleToLast.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +51,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Queen">
-    <configuration name="ComputeLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.Stack.ComputeLast" />
+  <component name="RunManager" selected="Application.Demo (1)">
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.sort.Demo" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.dataStructure.Stack.*" />
+          <option name="PATTERN" value="myStudy.dataStructure.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,25 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleToLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.Stack.MiddleToLast" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.sort.Bubble.Demo" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.dataStructure.Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MiddleToLastAndCompute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.Stack.MiddleToLastAndCompute" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myStudy.dataStructure.Stack.*" />
+          <option name="PATTERN" value="myStudy.dataStructure.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.recursion.maze" />
+    <configuration name="bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.sort.bubble" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.dataStructure.recursion.*" />
+          <option name="PATTERN" value="myStudy.dataStructure.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.sort.select" />
+      <module name="Java_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myStudy.dataStructure.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.select" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.bubble" />
         <item itemvalue="Application.Queen" />
-        <item itemvalue="Application.maze" />
-        <item itemvalue="Application.MiddleToLastAndCompute" />
-        <item itemvalue="Application.MiddleToLast" />
-        <item itemvalue="Application.ComputeLast" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +156,7 @@
       <workItem from="1632284415340" duration="1227000" />
       <workItem from="1632285679533" duration="1207000" />
       <workItem from="1632298244685" duration="6308000" />
-      <workItem from="1632381140180" duration="20289000" />
+      <workItem from="1632381140180" duration="37757000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -205,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632499763030</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="9.25">
+      <created>1632578454394</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632578454394</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +239,8 @@
     <MESSAGE value="9.22" />
     <MESSAGE value="9.23" />
     <MESSAGE value="9.24" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.24" />
+    <MESSAGE value="9.25" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.25" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
