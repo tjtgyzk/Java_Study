@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="9.25">
-      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/bubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/select.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/shell.java" afterDir="false" />
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="9.27">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +151,7 @@
       <workItem from="1632284415340" duration="1227000" />
       <workItem from="1632285679533" duration="1207000" />
       <workItem from="1632298244685" duration="6308000" />
-      <workItem from="1632381140180" duration="37757000" />
+      <workItem from="1632381140180" duration="38680000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -214,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632578454394</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="9.27">
+      <created>1632755726196</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1632755726196</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +242,8 @@
     <MESSAGE value="9.23" />
     <MESSAGE value="9.24" />
     <MESSAGE value="9.25" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.25" />
+    <MESSAGE value="9.27" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.27" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
