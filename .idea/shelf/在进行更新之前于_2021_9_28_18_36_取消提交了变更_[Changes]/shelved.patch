@@ -1,0 +1,17 @@
+Index: src/myStudy/dataStructure/Compute.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package myStudy.dataStructure;\r\n\r\nimport java.util.Deque;\r\nimport java.util.Stack;\r\n\r\npublic class Compute {\r\n   public static void main(String[] args) {\r\n      Stack<Integer> num = new Stack<Integer>();\r\n      num.push(10);\r\n      Stack oper = new Stack();\r\n      String s = \"2+4*2-4-2\";\r\n      s.\r\n   }\r\n\r\n}\r\n\r\n
+===================================================================
+diff --git a/src/myStudy/dataStructure/Compute.java b/src/myStudy/dataStructure/Compute.java
+--- a/src/myStudy/dataStructure/Compute.java	
++++ b/src/myStudy/dataStructure/Compute.java	
+@@ -9,7 +9,7 @@
+       num.push(10);
+       Stack oper = new Stack();
+       String s = "2+4*2-4-2";
+-      s.
++
+    }
+ 
+ }
