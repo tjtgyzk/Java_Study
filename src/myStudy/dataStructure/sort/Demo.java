@@ -29,7 +29,7 @@ public class Demo {
         //计算算法耗时
 
         //构造随机数组
-        int[] arr = new int[80000];
+        int[] arr = new int[800];
         Random random = new Random();
         for (int i = 0; i < arr.length; i++) {
             arr[i] = random.nextInt(100);
