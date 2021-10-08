@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="9.27">
-      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/Demo01_findK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/Demo02_KM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/juBuMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/duiShuQi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Demo_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Queue_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Stack_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Stack_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Tirtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/demo_KM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/doubleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/doubleNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/double_ji.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_9_22_12_45___Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_9_22_12_45_取消提交了变更_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/LinkedList/Single/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/LinkedList/Single/List.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/insertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/insertion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/select.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/select.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/shell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/shell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/LinkedList/Single/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/LinkedList/Single/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/insertion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/select.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/select.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/shell.java" afterDir="false" />
-    </list>
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="10.7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +153,7 @@
       <workItem from="1632381140180" duration="41003000" />
       <workItem from="1633249437470" duration="22205000" />
       <workItem from="1633443012898" duration="12567000" />
-      <workItem from="1633464684121" duration="7097000" />
+      <workItem from="1633464684121" duration="7834000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -255,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632813143106</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="10.7">
+      <created>1633678899811</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1633678899811</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +259,8 @@
     <MESSAGE value="9.24" />
     <MESSAGE value="9.25" />
     <MESSAGE value="9.27" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.27" />
+    <MESSAGE value="10.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.7" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
