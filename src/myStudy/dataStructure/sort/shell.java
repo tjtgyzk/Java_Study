@@ -3,9 +3,6 @@ package myStudy.dataStructure.sort;
 import java.util.Arrays;
 
 public class shell {
-    public static void main(String[] args) {
-
-    }
 
     public static void ShellSort1(int[] arr) {
         int gap = arr.length / 2;//初始步长

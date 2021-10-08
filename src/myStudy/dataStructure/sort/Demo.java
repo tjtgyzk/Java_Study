@@ -6,7 +6,7 @@ import java.util.Random;
 public class Demo {
     public static void main(String[] args) {
         //验证算法的正确性
-  /*    int[] arr1 = {5,2,3,4,1};
+        int[] arr1 = {5, 2, 3, 4, 1};
         System.out.println("冒泡排序");
         bubble.BubbleSort(arr1);
 
@@ -16,7 +16,7 @@ public class Demo {
 
         int[] arr3 = {5,2,3,4,1};
         System.out.println("插入排序");
-        insertion.InsertionSort(arr3);
+        insertion.InserationSortZ(arr3);
 
         int[] arr4 = {8,9,1,7,2,3,5,4,6,0};
         System.out.println("希尔排序（交换法）");
@@ -25,8 +25,7 @@ public class Demo {
         int[] arr5 = {8,9,1,7,2,3,5,4,6,0};
         System.out.println("希尔排序（移位法）");
         shell.ShellSort2(arr5);
-        */
-
+/*
         //计算算法耗时
 
         //构造随机数组
@@ -48,6 +47,6 @@ public class Demo {
         //计算时间差
         System.out.println("该排序算法耗时" + (endTime - startTime) + "ms");
         //
-
+*/
     }
 }

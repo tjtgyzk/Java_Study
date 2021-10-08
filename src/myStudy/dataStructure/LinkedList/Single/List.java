@@ -1,5 +1,7 @@
 package myStudy.dataStructure.LinkedList.Single;
 
+import java.util.Arrays;
+
 public class List {
     Node head = new Node();
 
@@ -49,6 +51,7 @@ public class List {
             if (temp.getNext().getData()==nice){
                 temp.setNext(temp.getNext().getNext());
                 break;
+
             }
         }
     }

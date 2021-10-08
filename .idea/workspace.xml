@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="9.27">
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/Demo01_findK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/Demo02_KM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/juBuMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/duiShuQi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/Demo_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/Queue_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/Stack_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/Stack_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/Tirtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/demo_KM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/doubleList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/doubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/double_ji.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_9_22_12_45___Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_9_22_12_45_取消提交了变更_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/LinkedList/Single/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/LinkedList/Single/List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/insertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/insertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/select.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/select.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/shell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/shell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/LinkedList/Single/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/LinkedList/Single/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/insertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/select.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/select.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/shell.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,28 +72,16 @@
     <property name="project.structure.last.edited" value="SDK" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Demo (1)">
-    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.sort.Demo" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myStudy.dataStructure.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Tirtle">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.sort.Bubble.Demo" />
+      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.Zuo.Demo" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.dataStructure.sort.*" />
+          <option name="PATTERN" value="myStudy.dataStructure.Zuo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.recursion.Queen" />
+    <configuration name="Demo_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yu.Demo_01" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.dataStructure.recursion.*" />
+          <option name="PATTERN" value="yu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.sort.bubble" />
+    <configuration name="Tirtle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yu.Tirtle" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.dataStructure.sort.*" />
+          <option name="PATTERN" value="yu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +115,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="select" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.sort.select" />
+    <configuration name="demo_KM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yu.demo_KM" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.dataStructure.sort.*" />
+          <option name="PATTERN" value="yu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="double_ji" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yu.double_ji" />
+      <module name="Java_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo (1)" />
-        <item itemvalue="Application.select" />
+        <item itemvalue="Application.Tirtle" />
+        <item itemvalue="Application.Demo_01" />
+        <item itemvalue="Application.demo_KM" />
+        <item itemvalue="Application.double_ji" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.bubble" />
-        <item itemvalue="Application.Queen" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +180,10 @@
       <workItem from="1632284415340" duration="1227000" />
       <workItem from="1632285679533" duration="1207000" />
       <workItem from="1632298244685" duration="6308000" />
-      <workItem from="1632381140180" duration="38680000" />
+      <workItem from="1632381140180" duration="41003000" />
+      <workItem from="1633249437470" duration="22205000" />
+      <workItem from="1633443012898" duration="12567000" />
+      <workItem from="1633464684121" duration="7097000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -216,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632755726196</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="9.27">
+      <created>1632813143106</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632813143106</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +284,13 @@
     <MESSAGE value="9.27" />
     <option name="LAST_COMMIT_MESSAGE" value="9.27" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="yu.doubleNode" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

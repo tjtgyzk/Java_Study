@@ -1,5 +1,6 @@
 package myStudy.dataStructure.sort;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class select {
@@ -19,6 +20,7 @@ public class select {
             arr[i] = arr[index];
             arr[index] = temp;
             System.out.println(Arrays.toString(arr));
+
         }
     }
 }
