@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="10.7" />
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="10.7">
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/mergeTi/RightMchu2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/mergeTi/mergesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/mergeTi/nixudui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/mergeTi/xiaoHe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_9_28_18_36___Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_9_28_18_36_取消提交了变更_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/juBuMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/juBuMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/duiShuQi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/sort/duiShuQi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/yu/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/yu/Node.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,26 +57,13 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Tirtle">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.Zuo.Demo" />
+  <component name="RunManager" selected="Application.mergesort">
+    <configuration name="RightMchu2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.Zuo.mergeTi.RightMchu2" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.dataStructure.Zuo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yu.Demo_01" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="yu.*" />
+          <option name="PATTERN" value="myStudy.dataStructure.Zuo.mergeTi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo_KM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yu.demo_KM" />
+    <configuration name="mergesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.Zuo.mergeTi.mergesort" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yu.*" />
+          <option name="PATTERN" value="myStudy.dataStructure.Zuo.mergeTi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="double_ji" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yu.double_ji" />
+    <configuration name="nixudui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.Zuo.mergeTi.nixudui" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yu.*" />
+          <option name="PATTERN" value="myStudy.dataStructure.Zuo.mergeTi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xiaoHe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.dataStructure.Zuo.mergeTi.xiaoHe" />
+      <module name="Java_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myStudy.dataStructure.Zuo.mergeTi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergesort" />
+        <item itemvalue="Application.RightMchu2" />
+        <item itemvalue="Application.nixudui" />
+        <item itemvalue="Application.xiaoHe" />
         <item itemvalue="Application.Tirtle" />
-        <item itemvalue="Application.Demo_01" />
-        <item itemvalue="Application.demo_KM" />
-        <item itemvalue="Application.double_ji" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +165,7 @@
       <workItem from="1632381140180" duration="41003000" />
       <workItem from="1633249437470" duration="22205000" />
       <workItem from="1633443012898" duration="12567000" />
-      <workItem from="1633464684121" duration="7834000" />
+      <workItem from="1633464684121" duration="20488000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -232,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633678899811</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="10.7">
+      <created>1633682586498</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1633682586498</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
