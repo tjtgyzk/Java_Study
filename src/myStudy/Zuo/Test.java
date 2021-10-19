@@ -1,9 +1,7 @@
-package myStudy.dataStructure.Zuo;
+package myStudy.Zuo;
 
 import myStudy.dataStructure.sort.bubble;
 import myStudy.dataStructure.sort.insertion;
-
-import java.util.Arrays;
 
 public class Test {
     public static void main(String[] args) {

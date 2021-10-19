@@ -1,6 +1,4 @@
-package myStudy.dataStructure.Zuo;
-
-import java.util.Arrays;
+package myStudy.Zuo;
 
 public class Demo01_findK {
     public static void main(String[] args) {

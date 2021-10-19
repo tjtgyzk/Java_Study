@@ -1,4 +1,4 @@
-package myStudy.dataStructure.Zuo.mergeTi;
+package myStudy.Zuo.mergeTi;
 
 import java.util.Arrays;
 

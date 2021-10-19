@@ -1,6 +1,4 @@
-package myStudy.dataStructure.Zuo.mergeTi;
-
-import java.util.HashMap;
+package myStudy.Zuo.mergeTi;
 
 public class LeetCode327 {
     public static void main(String[] args) {

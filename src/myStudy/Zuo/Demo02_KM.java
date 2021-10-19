@@ -1,4 +1,4 @@
-package myStudy.dataStructure.Zuo;
+package myStudy.Zuo;
 
 /*
 5.一个数组中有一种数出现K次，其他数都出现M次，M>1,K<M,找到出现了K次的数,如果这个数不为k次，返回-1

@@ -1,4 +1,4 @@
-package myStudy.dataStructure.Zuo;
+package myStudy.Zuo;
 
 public class juBuMin {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package myStudy.dataStructure.Zuo.QuickTi;
+package myStudy.Zuo.QuickTi;
 
 import java.util.Arrays;
 
