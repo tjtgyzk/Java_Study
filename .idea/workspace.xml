@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="10.14">
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/heap/heapsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/heap/sortK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/heap/maxLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-14_22_02__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-14_22_02__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/Demo01_findK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/Demo02_KM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/juBuMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/mergeTi/mergesort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/mergeTi/nixudui.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/mergeTi/xiaoHe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/Demo01_findK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Demo01_findK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/Demo02_KM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Demo02_KM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/QuickTi/Holland.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/QuickTi/Holland.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/QuickTi/QuicKsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/QuickTi/QuicKsort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/juBuMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/juBuMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/mergeTi/LeetCode327.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/mergeTi/LeetCode327.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/mergeTi/RightMchu2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/mergeTi/RightMchu2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/mergeTi/mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/mergeTi/mergesort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/mergeTi/nixudui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/mergeTi/nixudui.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/Zuo/mergeTi/xiaoHe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/mergeTi/xiaoHe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +49,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.sortK">
+  <component name="RunManager" selected="应用程序.heapsort">
     <configuration name="QuicKsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.QuickTi.QuicKsort" />
       <module name="Java_Study" />
@@ -133,12 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.sortK" />
-        <item itemvalue="Application.heapsort" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -176,6 +152,7 @@
       <workItem from="1634395861316" duration="533000" />
       <workItem from="1634396451739" duration="2618000" />
       <workItem from="1634540681400" duration="1681000" />
+      <workItem from="1634637364361" duration="7300000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
