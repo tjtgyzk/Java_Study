@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="10.14">
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/heap/maxLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-14_22_02__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-14_22_02__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/heap/NiuBiHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/comparatorYu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-14_22_02_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-14_22_02__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_10_14_15_36___Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_10_19_14_26___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021_10_19_14_26___Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_10_14_15_36_取消提交了变更_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/QuickTi/QuicKsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/QuickTi/QuicKsort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/mergeTi/LeetCode327.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/mergeTi/LeetCode327.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/mergeTi/xiaoHe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/mergeTi/xiaoHe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/dataStructure/sort/bubble.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +52,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorithmbasic2020-master" />
     <property name="project.structure.last.edited" value="SDK" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="应用程序.heapsort">
+  <component name="RunManager" selected="Application.heap">
     <configuration name="QuicKsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.QuickTi.QuicKsort" />
       <module name="Java_Study" />
@@ -76,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="heapsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.heap.heapsort" />
+    <configuration name="heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yu.heap" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.heap.*" />
+          <option name="PATTERN" value="yu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,6 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.heap" />
+        <item itemvalue="Application.xiaoHe" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -153,6 +169,7 @@
       <workItem from="1634396451739" duration="2618000" />
       <workItem from="1634540681400" duration="1681000" />
       <workItem from="1634637364361" duration="7300000" />
+      <workItem from="1634984185896" duration="1363000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>

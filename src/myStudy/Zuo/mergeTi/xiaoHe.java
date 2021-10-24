@@ -2,7 +2,7 @@ package myStudy.Zuo.mergeTi;
 
 public class xiaoHe {
     public static void main(String[] args) {
-        int[] arr = {3, 2, 1, 5, 4};
+        int[] arr = {2, 1, 3, 7, 6};
         System.out.println(mergeSort(arr, 0, 4));
     }
 

@@ -19,7 +19,7 @@ public class QuicKsort {
         if (l >= r) {
             return;
         }
-        int target = arr[l + (int) Math.random() * (r - l)];
+        int target = arr[l + (int) Math.random() * (r - l + 1)];
         int less = l - 1;
         int more = r + 1;
         int index = l;
