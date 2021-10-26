@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="10.26.1">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/_2021_10_26_15_57___Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_10_26_15_57_取消提交了变更_[Changes]/shelved.patch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-20_18_05__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-20_18_05__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_10_19_14_26___Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_10_19_14_26_取消提交了变更_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Trie/Trie$Trie1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Trie/Trie$Trie1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/QuickTi/Holland.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/QuickTi/QuicKsort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/mergeTi/LeetCode327.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/dataStructure/Zuo/mergeTi/RightMchu2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/radixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/radixSort.java" afterDir="false" />
-    </list>
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="10.26.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -267,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635253623248</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="10.26.1">
+      <created>1635253788417</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1635253788417</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
