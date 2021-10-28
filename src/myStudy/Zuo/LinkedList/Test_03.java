@@ -1,7 +1,9 @@
 package myStudy.Zuo.LinkedList;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 public class Test_03 {
     public static void main(String[] args) {
@@ -46,9 +48,9 @@ public class Test_03 {
         }
         cur = head;
         while (cur != null) {//设置好random
-            NodeR newN = cur.next;
-            newN.random = cur.random.next;
-            cur = newN.next;
+            NodeR clone = cur.next;
+            clone.random = cur.random.next;
+            cur = clone.next;
         }
         cur = head;
         NodeR newHead = cur.next;
