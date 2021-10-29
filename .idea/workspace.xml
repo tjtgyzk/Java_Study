@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="10.26.1">
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/LinkedList/Test_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-27_20_41__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-27_20_41__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/TreeBasic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/LinkedList/Test_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/LinkedList/Test_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/LinkedList/Test_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/LinkedList/Test_02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,20 +50,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="应用程序.Test_01">
-    <configuration name="Test_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.LinkedList.Test_01" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TreeBasic">
     <configuration name="Test_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.LinkedList.Test_02" />
       <module name="Java_Study" />
@@ -104,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Tree.TreeBasic" />
+      <module name="Java_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myStudy.Zuo.Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="xiaoHe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.mergeTi.xiaoHe" />
       <module name="Java_Study" />
@@ -117,6 +116,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TreeBasic" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -310,6 +314,11 @@
           <url>file://$PROJECT_DIR$/src/myStudy/Zuo/heap/sortK.java</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myStudy/Zuo/Tree/TreeBasic.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
