@@ -2,7 +2,7 @@ package yu;
 
 public class double_ji {
     public static void main(String[] args) {
-        int[] arr = {3, 3, 3, 4, 5, 5, 6, 6, 6, 6, 7, 7};//3和4
+        int[] arr = {2, 1, 2, 3, 4, 1};//3和4
         int eor = 0;
         for (int i = 0; i < arr.length; i++) {
             eor ^= arr[i];//eor = a^b

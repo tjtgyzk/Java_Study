@@ -1,20 +1,12 @@
 package myStudy.Zuo.Tree;
 
-import myStudy.Zuo.Trie.Trie;
+import myStudy.Zuo.Tree.TreeNode;
 
 import java.util.Deque;
 import java.util.LinkedList;
+import java.util.Queue;
 
 public class TreeBasic {
-    public static class TreeNode {
-        public int value;
-        public TreeNode left;
-        public TreeNode right;
-
-        public TreeNode(int value) {
-            this.value = value;
-        }
-    }
 
     public static void main(String[] args) {
         TreeNode head = new TreeNode(1);
@@ -29,6 +21,10 @@ public class TreeBasic {
         in1(head);
         System.out.println();
         pos1(head);
+        System.out.println();
+        level(head);
+        PrintTree.print(head);
+        System.out.println(levelNumber(head));
     }
 
     //递归版前序中序后序遍历
@@ -107,5 +103,49 @@ public class TreeBasic {
         while (!res.isEmpty()) {
             System.out.print(res.pop().value + " ");
         }
+    }
+
+    //按层遍历
+    public static void level(TreeNode head) {
+        Queue<TreeNode> que = new LinkedList<>();
+        que.add(head);
+        while (!que.isEmpty()) {
+            TreeNode cur = que.poll();
+            System.out.print(cur.value + " ");
+            if (cur.left != null) {
+                que.add(cur.left);
+            }
+            if (cur.right != null) {
+                que.add(cur.right);
+            }
+        }
+    }
+
+    //按层遍历，返回最宽层的节点数量
+    public static int levelNumber(TreeNode head) {
+        Queue<TreeNode> que = new LinkedList<>();
+        TreeNode curEnd = head;
+        TreeNode nextEnd = null;
+        int max = 0;
+        int curNum = 0;
+        que.add(head);
+        while (!que.isEmpty()) {
+            TreeNode cur = que.poll();
+            curNum++;
+            if (cur.left != null) {
+                que.add(cur.left);
+                nextEnd = cur.left;
+            }
+            if (cur.right != null) {
+                que.add(cur.right);
+                nextEnd = cur.right;
+            }
+            if (cur == curEnd) {
+                max = Math.max(max, curNum);
+                curNum = 0;
+                curEnd = nextEnd;
+            }
+        }
+        return max;
     }
 }
