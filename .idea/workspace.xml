@@ -4,17 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="10.29">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/LeetCode_102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/Leetcode_431.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/PrintTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/XuLieHua.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/yu/double_ji.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/yu/double_ji.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/TreeBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/TreeBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/double_ji.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yu/double_ji.java" afterDir="false" />
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="11.02">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_10_26_15_57_取消提交了变更_[Changes]/shelved.patch" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +170,7 @@
       <workItem from="1635673300138" duration="468000" />
       <workItem from="1635673788519" duration="647000" />
       <workItem from="1635674798350" duration="352000" />
-      <workItem from="1635675222408" duration="6959000" />
+      <workItem from="1635675222408" duration="7727000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -300,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635519756303</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="11.02">
+      <created>1635831875035</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1635831875035</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,7 +329,8 @@
     <MESSAGE value="10.24" />
     <MESSAGE value="10.26.1" />
     <MESSAGE value="10.29" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.29" />
+    <MESSAGE value="11.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.02" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
