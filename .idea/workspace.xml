@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="11.2">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-28_18_11__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-28_18_11__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/LeetCode_JianZhi048.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +53,13 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="background.image.plus" />
   </component>
-  <component name="RunManager" selected="应用程序.TreeBasic">
-    <configuration name="Tirtle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yu.Tirtle" />
+  <component name="RunManager" selected="应用程序.LeetCode_JianZhi048">
+    <configuration name="LeetCode_JianZhi048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Tree.LeetCode_JianZhi048" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yu.*" />
+          <option name="PATTERN" value="myStudy.Zuo.Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.LeetCode_JianZhi048" />
         <item itemvalue="应用程序.TreeBasic" />
         <item itemvalue="应用程序.xiaoHe" />
         <item itemvalue="应用程序.double_ji" />
         <item itemvalue="应用程序.XuLieHua" />
-        <item itemvalue="应用程序.Tirtle" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635838914728</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="11.2">
+      <created>1635838947841</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1635838947841</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,11 +354,17 @@
           <line>17</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myStudy/Zuo/Tree/LeetCode_JianZhi048.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="yu.doubleNode" memberName="next" />
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
       </pinned-members>
     </pin-to-top-manager>
     <watches-manager>
@@ -360,6 +374,7 @@
         <watch expression="smallHead" />
         <watch expression="smallHead" />
         <watch expression="newHead1.next.random" />
+        <watch expression="s" />
       </configuration>
     </watches-manager>
   </component>
