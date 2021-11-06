@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="11.02">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_10_28_12_52___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021_10_28_12_52___Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_11_2_15_40___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021_11_2_15_40___Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/IsBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/MaxDis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/NextNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/fold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/isBanlancedTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/isCBT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-27_20_41_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-27_20_41__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-28_18_11_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-28_18_11__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_10_28_12_52___Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_10_28_12_52_取消提交了变更_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/LinkedList/Test_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/LinkedList/Test_04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Tree/LeetCode_JianZhi048.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Tree/LeetCode_JianZhi048.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/radixSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/radixSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/LinkedList/Test_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/LinkedList/Test_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/TreeBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/TreeBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/radixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/radixSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zuo_Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorithmbasic2020-master" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDK" />
     <property name="project.structure.proportion" value="0.0" />
@@ -53,9 +70,9 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="background.image.plus" />
   </component>
-  <component name="RunManager" selected="应用程序.LeetCode_JianZhi048">
-    <configuration name="LeetCode_JianZhi048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Tree.LeetCode_JianZhi048" />
+  <component name="RunManager" selected="应用程序.MaxDis">
+    <configuration name="IsBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Tree.IsBST" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Tree.TreeBasic" />
+    <configuration name="MaxDis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Tree.MaxDis" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
@@ -93,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="double_ji" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yu.double_ji" />
+    <configuration name="fold" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Tree.fold" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yu.*" />
+          <option name="PATTERN" value="myStudy.Zuo.Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xiaoHe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.mergeTi.xiaoHe" />
+    <configuration name="isBanlancedTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Tree.isBanlancedTrees" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.mergeTi.*" />
+          <option name="PATTERN" value="myStudy.Zuo.Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.LeetCode_JianZhi048" />
-        <item itemvalue="应用程序.TreeBasic" />
-        <item itemvalue="应用程序.xiaoHe" />
-        <item itemvalue="应用程序.double_ji" />
+        <item itemvalue="应用程序.MaxDis" />
+        <item itemvalue="应用程序.IsBST" />
+        <item itemvalue="应用程序.isBanlancedTrees" />
         <item itemvalue="应用程序.XuLieHua" />
+        <item itemvalue="应用程序.fold" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635859798027</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="11.02">
+      <created>1635859820493</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1635859820493</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,14 +389,14 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/myStudy/Zuo/Tree/XuLieHua.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/myStudy/Zuo/Tree/LeetCode_JianZhi048.java</url>
           <line>59</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myStudy/Zuo/Tree/XuLieHua.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

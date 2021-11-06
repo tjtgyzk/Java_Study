@@ -23,28 +23,31 @@ public class Test_04 {
     }
 
     public static Node findNodeNoCircle(Node head1, Node head2) {
-        Node cur = head1;
+        Node cur1 = head1;
+        Node cur2 = head2;
         int n = 0;
-        while (cur.next != null) {
+        while (cur1.next != null) {
             n++;
-            cur = cur.next;
+            cur1 = cur1.next;
         }
-        cur = head2;
-        while (cur.next != null) {
+        while (cur2.next != null) {
             n--;
-            cur = cur.next;
-        }
-        cur = n > 0 ? head1 : head2;//cur为长的那个链表的头部
-        Node cur2 = cur == head1 ? head2 : head1;//cur2为短的那个链表的头部
-        n = Math.abs(n);
-        while (n-- > 0) {
-            cur = cur.next;
-        }
-        while (cur != cur2) {
-            cur = cur.next;
             cur2 = cur2.next;
         }
-        return cur;
+        if (cur1 != cur2) {
+            return null;
+        }
+        cur1 = n > 0 ? head1 : head2;//cur为长的那个链表的头部
+        cur2 = cur1 == head1 ? head2 : head1;//cur2为短的那个链表的头部
+        n = Math.abs(n);
+        while (n-- > 0) {
+            cur1 = cur1.next;
+        }
+        while (cur1 != cur2) {
+            cur1 = cur1.next;
+            cur2 = cur2.next;
+        }
+        return cur1;
     }
 
     public static Node process(Node head1, Node head2) {
