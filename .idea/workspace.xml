@@ -4,26 +4,55 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="11.02">
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/IsBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/MaxDis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/NextNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/fold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/isBanlancedTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/isCBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-27_20_41_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-27_20_41__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-28_18_11_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-10-28_18_11__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_10_28_12_52___Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_10_28_12_52_取消提交了变更_[Changes]/shelved.patch" beforeDir="false" />
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="11.06">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Le299.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/le826.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Graph/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Graph/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Graph/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Graph/Kruskal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Graph/LeetCode_1584.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Graph/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Graph/TopologicalDFS1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Graph/TopologicalSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/TanXin/GoldSpli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/TanXin/MinCostMaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/TanXin/ProgramTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/TanXin/StringSortAlphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/IsCBT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/Isfull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/MaxBSTHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/MaxSubBSTSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/bothParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/partyHappy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Union/LeetCode_200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Union/LeetCode_305.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Union/Leetcode547.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Union/Union.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/FindBothParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/HouJi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/ISBanlancedTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/ISCBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/IsBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/IsCBT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/IsFull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/MaxBSTHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/MaxBSTSubTreeSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/MaxDis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/PrintTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/geiPoLanPaiDaTie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/levelLenth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/LinkedList/Test_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/LinkedList/Test_04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Tree/LeetCode_JianZhi048.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Tree/LeetCode_JianZhi048.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/radixSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/radixSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/LinkedList/Test_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/LinkedList/Test_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/TreeBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/TreeBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/radixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/radixSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Tree/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Trie/Trie$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Trie/Trie$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Trie/Trie$Trie1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Trie/Trie$Trie1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Trie/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/Trie/Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/countSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/myStudy/Zuo/countSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/Trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Trie/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/countSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/countSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +80,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
   <component name="ProjectId" id="1wn8eXybxTS70REm1bnEA0LFfFp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -68,15 +100,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="background.image.plus" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="应用程序.MaxDis">
-    <configuration name="IsBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Tree.IsBST" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="yu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.LeetCode_1584">
+    <configuration name="FindBothParent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yu.FindBothParent" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.Tree.*" />
+          <option name="PATTERN" value="yu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxDis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Tree.MaxDis" />
+    <configuration name="LeetCode_1584" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Graph.LeetCode_1584" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.Tree.*" />
+          <option name="PATTERN" value="myStudy.Zuo.Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XuLieHua" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Tree.XuLieHua" />
+    <configuration name="LeetCode_305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Union.LeetCode_305" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.Tree.*" />
+          <option name="PATTERN" value="myStudy.Zuo.Union.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fold" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Tree.fold" />
+    <configuration name="MaxBSTHead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yu.MaxBSTHead" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.Tree.*" />
+          <option name="PATTERN" value="yu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isBanlancedTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.Tree.isBanlancedTrees" />
+    <configuration name="geiPoLanPaiDaTie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yu.geiPoLanPaiDaTie" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.Tree.*" />
+          <option name="PATTERN" value="yu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.MaxDis" />
-        <item itemvalue="应用程序.IsBST" />
-        <item itemvalue="应用程序.isBanlancedTrees" />
-        <item itemvalue="应用程序.XuLieHua" />
-        <item itemvalue="应用程序.fold" />
+        <item itemvalue="应用程序.LeetCode_1584" />
+        <item itemvalue="应用程序.LeetCode_305" />
+        <item itemvalue="应用程序.geiPoLanPaiDaTie" />
+        <item itemvalue="应用程序.FindBothParent" />
+        <item itemvalue="应用程序.MaxBSTHead" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +226,9 @@
       <workItem from="1635673788519" duration="647000" />
       <workItem from="1635674798350" duration="352000" />
       <workItem from="1635675222408" duration="6959000" />
+      <workItem from="1636617118843" duration="23604000" />
+      <workItem from="1636802777140" duration="26575000" />
+      <workItem from="1637222565630" duration="11154000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -344,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635859820493</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="11.06">
+      <created>1636194546940</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1636194546940</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +424,8 @@
     <MESSAGE value="10.29" />
     <MESSAGE value="11.2" />
     <MESSAGE value="11.02" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.02" />
+    <MESSAGE value="11.06" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.06" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -398,6 +446,36 @@
           <line>16</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myStudy/Zuo/Tree/bothParent.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myStudy/Zuo/TanXin/GoldSpli.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/yu/IsCBT2.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/yu/IsCBT2.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/yu/MaxBSTHead.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myStudy/Zuo/Union/LeetCode_305.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
@@ -408,12 +486,10 @@
     </pin-to-top-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="bigHead" />
-        <watch expression="bigHead" />
-        <watch expression="smallHead" />
-        <watch expression="smallHead" />
-        <watch expression="newHead1.next.random" />
-        <watch expression="s" />
+        <watch expression="edges.toArray()[3]" />
+        <watch expression="((Edge)edges.toArray()[2]).from" custom="myStudy.Zuo.Graph.LeetCode_1584.Edge" />
+        <watch expression="edges.toArray()[0]" />
+        <watch expression="edges.toArray()[0]" />
       </configuration>
     </watches-manager>
   </component>

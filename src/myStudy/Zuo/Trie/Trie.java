@@ -1,5 +1,8 @@
 package myStudy.Zuo.Trie;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class Trie {
     public static class Node {
         public int pass;
@@ -92,5 +95,6 @@ public class Trie {
         }
 
     }
+
 
 }
