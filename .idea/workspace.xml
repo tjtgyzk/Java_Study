@@ -4,58 +4,20 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="11.19">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Le506.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/HorseJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/Kard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/Longest20011202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/LongestSubArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/NumToAlpha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/Sticker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Graph/Dijkstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Graph/Dijkstra2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Graph/Prim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Recursion/HanNuoTa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Recursion/PrintAllPerhaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Recursion/PrintAllSubStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/Recursion/ReverseStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Bing/BCJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Bing/LeetCode_200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Bing/LeetCode_305.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Bing/LeetCode_547.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/DaBenZhuanMoney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Deng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/HorseJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/LongestSubArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/Num2ZiMu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/Stickers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/Str20211202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/StupidLiangXinYu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/MinCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/ProgramTimesMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Recursion/AllPaiLie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Recursion/HanNuoTa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Recursion/Stck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Recursion/SubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/TanXinLow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Tu/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Tu/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Tu/Dijkstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Tu/Dijkstra2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Tu/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Tu/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Tu/Kruskal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Tu/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Tu/Prim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/Tu/TuoPuSort.java" afterDir="false" />
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="12.04">
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/BobDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/HitBoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/NearestRoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/PaperMoney_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/PaperMoney_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/PaperMoney_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/PaperMoney_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/SplitNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/SplitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/Coffee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yu/DynamicProgramming/HorseJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/HorseJump.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +65,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -111,22 +73,9 @@
       <recent name="yu" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.HorseJump (1)">
-    <configuration name="HorseJump (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yu.DynamicProgramming.HorseJump" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="yu.DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HorseJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.HorseJump" />
+  <component name="RunManager" selected="应用程序.SplitSum">
+    <configuration name="BobDie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.BobDie" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sticker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.Sticker" />
+    <configuration name="HitBoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.HitBoss" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
@@ -151,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stickers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yu.DynamicProgramming.Stickers" />
+    <configuration name="PaperMoney_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.PaperMoney_04" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yu.DynamicProgramming.*" />
+          <option name="PATTERN" value="myStudy.Zuo.DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +113,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Str20211202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yu.DynamicProgramming.Str20211202" />
+    <configuration name="SplitNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.SplitNumber" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yu.DynamicProgramming.*" />
+          <option name="PATTERN" value="myStudy.Zuo.DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.SplitSum" />
+      <module name="Java_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myStudy.Zuo.DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.HorseJump (1)" />
-        <item itemvalue="应用程序.HorseJump" />
-        <item itemvalue="应用程序.Str20211202" />
-        <item itemvalue="应用程序.Stickers" />
-        <item itemvalue="应用程序.Sticker" />
+        <item itemvalue="应用程序.SplitSum" />
+        <item itemvalue="应用程序.SplitNumber" />
+        <item itemvalue="应用程序.PaperMoney_04" />
+        <item itemvalue="应用程序.HitBoss" />
+        <item itemvalue="应用程序.BobDie" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +197,8 @@
       <workItem from="1637222565630" duration="36063000" />
       <workItem from="1637566522272" duration="50027000" />
       <workItem from="1638062762441" duration="25012000" />
-      <workItem from="1638350842749" duration="31829000" />
+      <workItem from="1638350842749" duration="82653000" />
+      <workItem from="1639705393264" duration="23650000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -405,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637309660824</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="12.04">
+      <created>1638606862560</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1638606862560</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,7 +410,8 @@
     <MESSAGE value="11.02" />
     <MESSAGE value="11.06" />
     <MESSAGE value="11.19" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.19" />
+    <MESSAGE value="12.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="12.04" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -498,7 +469,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/myStudy/Zuo/Recursion/PrintAllPerhaps.java</url>
-          <line>106</line>
+          <line>107</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -510,6 +481,11 @@
           <url>file://$PROJECT_DIR$/src/myStudy/Zuo/Recursion/ReverseStack.java</url>
           <line>35</line>
           <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/yu/DynamicProgramming/Coffee.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

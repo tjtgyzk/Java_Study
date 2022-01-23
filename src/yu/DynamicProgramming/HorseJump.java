@@ -67,7 +67,6 @@ public class HorseJump {
         int step = 10;
         System.out.println(function1(x, y, step));
         System.out.println(function2(x, y, step));
-        Map<Character, Integer> map = new HashMap<>();
-        map.containsKey
+
     }
 }
