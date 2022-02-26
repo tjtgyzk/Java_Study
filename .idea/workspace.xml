@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="12.04">
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/BobDie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/HitBoss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/NearestRoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/PaperMoney_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/PaperMoney_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/PaperMoney_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/PaperMoney_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/SplitNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/SplitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/Coffee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/DynamicProgramming/HorseJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/HorseJump.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,6 +187,7 @@
       <workItem from="1638062762441" duration="25012000" />
       <workItem from="1638350842749" duration="82653000" />
       <workItem from="1639705393264" duration="23650000" />
+      <workItem from="1645594135152" duration="1355000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
