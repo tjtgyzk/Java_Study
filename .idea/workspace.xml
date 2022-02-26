@@ -4,20 +4,10 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="12.04">
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/BobDie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/HitBoss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/NearestRoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/PaperMoney_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/PaperMoney_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/PaperMoney_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/PaperMoney_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/SplitNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/SplitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/Coffee.java" afterDir="false" />
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="11.2">
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/Queens8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/z18_Windows/Que1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yu/DynamicProgramming/HorseJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yu/DynamicProgramming/HorseJump.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,35 +63,35 @@
       <recent name="yu" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.SplitSum">
-    <configuration name="BobDie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.BobDie" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HitBoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.HitBoss" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.Que1">
     <configuration name="PaperMoney_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.PaperMoney_04" />
+      <module name="Java_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myStudy.Zuo.DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Que1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.z18_Windows.Que1" />
+      <module name="Java_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myStudy.Zuo.z18_Windows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queens8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.Queens8" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Que1" />
+        <item itemvalue="应用程序.Queens8" />
         <item itemvalue="应用程序.SplitSum" />
         <item itemvalue="应用程序.SplitNumber" />
         <item itemvalue="应用程序.PaperMoney_04" />
-        <item itemvalue="应用程序.HitBoss" />
-        <item itemvalue="应用程序.BobDie" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +189,10 @@
       <workItem from="1638062762441" duration="25012000" />
       <workItem from="1638350842749" duration="82653000" />
       <workItem from="1639705393264" duration="23650000" />
+      <workItem from="1643533515392" duration="2000" />
+      <workItem from="1644572770845" duration="3109000" />
+      <workItem from="1644750496595" duration="3623000" />
+      <workItem from="1645016052151" duration="2363000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
