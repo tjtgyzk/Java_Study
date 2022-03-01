@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="11.2">
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/DynamicProgramming/Queens8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/z18_Windows/Que1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/z18_Windows/AddOil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/z18_Windows/CoinsAim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/z18_Windows/Subarr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,13 +64,13 @@
       <recent name="yu" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Que1">
-    <configuration name="PaperMoney_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.PaperMoney_04" />
+  <component name="RunManager" selected="应用程序.AddOil">
+    <configuration name="AddOil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.z18_Windows.AddOil" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.DynamicProgramming.*" />
+          <option name="PATTERN" value="myStudy.Zuo.z18_Windows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.SplitNumber" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SplitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.SplitSum" />
       <module name="Java_Study" />
@@ -129,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Subarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.z18_Windows.Subarr" />
+      <module name="Java_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myStudy.Zuo.z18_Windows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.AddOil" />
+        <item itemvalue="应用程序.Subarr" />
         <item itemvalue="应用程序.Que1" />
         <item itemvalue="应用程序.Queens8" />
         <item itemvalue="应用程序.SplitSum" />
-        <item itemvalue="应用程序.SplitNumber" />
-        <item itemvalue="应用程序.PaperMoney_04" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +406,8 @@
     <MESSAGE value="11.06" />
     <MESSAGE value="11.19" />
     <MESSAGE value="12.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.04" />
+    <MESSAGE value="2.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.26" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
