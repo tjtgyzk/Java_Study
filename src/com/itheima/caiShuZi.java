@@ -1,4 +1,5 @@
 package com.itheima;
+import java.util.HashMap;
 import java.util.Scanner;
 import java.util.Random;
 public class caiShuZi {
@@ -21,5 +22,6 @@ public class caiShuZi {
                 break;
             }
         }
+
     }
 }

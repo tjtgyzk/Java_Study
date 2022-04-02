@@ -3,12 +3,37 @@
   <component name="AnalysisUIOptions">
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="11.2">
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/z18_Windows/AddOil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/z18_Windows/CoinsAim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/z18_Windows/Subarr.java" afterDir="false" />
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="3.01">
+      <change afterPath="$PROJECT_DIR$/Study-proxy/src/main/java/xdu/edu/studyproxy/demo1/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study-proxy/src/main/java/xdu/edu/studyproxy/demo1/Rent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study-proxy/src/main/java/xdu/edu/studyproxy/demo1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study-proxy/src/main/java/xdu/edu/studyproxy/demo1/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study-proxy/src/main/java/xdu/edu/studyproxy/demo1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study-proxy/src/main/java/xdu/edu/studyproxy/demo1/UserHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study-proxy/src/main/java/xdu/edu/studyproxy/demo1/UserProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-study/spring-study01/spring-study01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-study/spring-study01/src/main/java/edu/xdu/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-study/spring-study01/src/main/java/edu/xdu/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-study/spring-study01/src/main/java/edu/xdu/dao/UserDaoMysqlImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-study/spring-study01/src/main/java/edu/xdu/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-study/spring-study01/src/main/java/edu/xdu/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-study/spring-study01/src/test/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/z19_upperStack/BothMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/z19_upperStack/GetMaxSubSquareHaveOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/z19_upperStack/GetSubOneSquareNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/z19_upperStack/ReturnMaxSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/z19_upperStack/SelectMaxAim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/com/itheima/caiShuZi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/com/itheima/caiShuZi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/caiShuZi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/caiShuZi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +44,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="spring-beans.schema" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -36,6 +62,14 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedIndex" value="2" />
   </component>
@@ -50,13 +84,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="F:/Software/QQ/QQFILES/864793683/FileRecv/chapter06/chapter06" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDK" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -64,13 +99,20 @@
       <recent name="yu" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.AddOil">
-    <configuration name="AddOil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.z18_Windows.AddOil" />
+  <component name="RunManager" selected="应用程序.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="spring-study01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yu.Reverse.Test" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.z18_Windows.*" />
+          <option name="PATTERN" value="yu.Reverse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Que1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.z18_Windows.Que1" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Test" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.z18_Windows.*" />
+          <option name="PATTERN" value="com.itheima.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queens8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.Queens8" />
-      <module name="Java_Study" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xdu.edu.studyproxy.demo1.Test2" />
+      <module name="Study-proxy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.DynamicProgramming.*" />
+          <option name="PATTERN" value="xdu.edu.studyproxy.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.DynamicProgramming.SplitSum" />
-      <module name="Java_Study" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xdu.edu.studyproxy.demo1.Test" />
+      <module name="Study-proxy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.DynamicProgramming.*" />
+          <option name="PATTERN" value="xdu.edu.studyproxy.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,26 +159,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.z18_Windows.Subarr" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.z18_Windows.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="StudyProxyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Study-proxy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="xdu.edu.studyproxy.StudyProxyApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.AddOil" />
-        <item itemvalue="应用程序.Subarr" />
-        <item itemvalue="应用程序.Que1" />
-        <item itemvalue="应用程序.Queens8" />
-        <item itemvalue="应用程序.SplitSum" />
+        <item itemvalue="应用程序.Test (1)" />
+        <item itemvalue="应用程序.Test2" />
+        <item itemvalue="应用程序.Test (2)" />
+        <item itemvalue="应用程序.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +229,15 @@
       <workItem from="1644572770845" duration="3109000" />
       <workItem from="1644750496595" duration="3623000" />
       <workItem from="1645016052151" duration="2363000" />
+      <workItem from="1646397711645" duration="8867000" />
+      <workItem from="1646570182019" duration="3538000" />
+      <workItem from="1647361011244" duration="1284000" />
+      <workItem from="1647790672245" duration="781000" />
+      <workItem from="1647947113793" duration="5402000" />
+      <workItem from="1648042935198" duration="155000" />
+      <workItem from="1648311470512" duration="23787000" />
+      <workItem from="1648628683509" duration="9093000" />
+      <workItem from="1648754397267" duration="3116000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -370,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638606862560</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="3.01">
+      <created>1646137494906</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1646137494906</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,7 +458,8 @@
     <MESSAGE value="11.19" />
     <MESSAGE value="12.04" />
     <MESSAGE value="2.26" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.26" />
+    <MESSAGE value="3.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.01" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -482,6 +534,16 @@
           <url>file://$PROJECT_DIR$/src/yu/DynamicProgramming/Coffee.java</url>
           <line>168</line>
           <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myStudy/Zuo/z19_upperStack/SelectMaxAim.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myStudy/Zuo/z19_upperStack/ReturnMaxSquare.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
