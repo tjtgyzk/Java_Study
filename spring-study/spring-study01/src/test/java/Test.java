@@ -5,12 +5,16 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import java.util.concurrent.ExecutionException;
+
+import static java.lang.Character.getType;
+
 public class Test {
-    public static void main(String[] args) {
-        //获取ApplicationContext：拿到Spring的容器
-        ApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
-        //需要什么就get什么
-        UserServiceImpl userServiceImpl = (UserServiceImpl) context.getBean("userServiceImpl");
-        userServiceImpl.getUser();
+    public static void main(String[] args) throws ExecutionException, InterruptedException {
+        final byte b1 = 1;
+        final byte b2 = 2;
+        byte b3 = (b1 + b2);
+        System.out.println(getType(b1));
+
     }
 }
