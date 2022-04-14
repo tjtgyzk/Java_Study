@@ -7,10 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="4.14">
-      <change afterPath="$PROJECT_DIR$/src/myStudy/face/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="4.14.face" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +38,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="F:/apache-maven-3.6.0" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.0" />
         <option name="userSettingsFile" value="F:\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -62,7 +59,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="F:/Software/QQ/QQFILES/864793683/FileRecv/chapter06/chapter06" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Software/QQ/QQFILES/864793683/FileRecv/chapter06/chapter06" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
@@ -76,7 +73,7 @@
       <recent name="yu" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.LeetCode380">
+  <component name="RunManager" selected="应用程序.Main2">
     <configuration name="LeetCode380" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.ShuaTi.Day02.LeetCode380" />
       <module name="Java_Study" />
@@ -90,12 +87,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode_780" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.ShuaTi.Day01.LeetCode_780" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Student.Main" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.ShuaTi.Day01.*" />
+          <option name="PATTERN" value="com.Student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Student.Main2" />
+      <module name="Java_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.PrintU" />
+      <module name="Java_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,32 +139,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortestSubSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.ShuaTi.Day02.ShortestSubSort" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.ShuaTi.Day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WaysToTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.ShuaTi.Day01.WaysToTarget" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.ShuaTi.Day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StudyProxyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="Study-proxy" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="xdu.edu.studyproxy.StudyProxyApplication" />
@@ -151,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Main2" />
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.PrintU" />
         <item itemvalue="应用程序.LeetCode380" />
         <item itemvalue="应用程序.ReceiveAndPrint" />
-        <item itemvalue="应用程序.ShortestSubSort" />
-        <item itemvalue="应用程序.LeetCode_780" />
-        <item itemvalue="应用程序.WaysToTarget" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +220,7 @@
       <workItem from="1648628683509" duration="9093000" />
       <workItem from="1648754397267" duration="10844000" />
       <workItem from="1649408072043" duration="13615000" />
-      <workItem from="1649587630138" duration="17494000" />
+      <workItem from="1649587630138" duration="15997000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -414,12 +411,12 @@
       <option name="project" value="LOCAL" />
       <updated>1648921147232</updated>
     </task>
-    <task id="LOCAL-00028" summary="4.14">
-      <created>1649929736678</created>
+    <task id="LOCAL-00028" summary="4.14.face">
+      <created>1649941286475</created>
       <option name="number" value="00028" />
       <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
-      <updated>1649929736679</updated>
+      <updated>1649941286475</updated>
     </task>
     <option name="localTasksCounter" value="29" />
     <servers />
@@ -460,8 +457,8 @@
     <MESSAGE value="2.26" />
     <MESSAGE value="3.01" />
     <MESSAGE value="4.03" />
-    <MESSAGE value="4.14" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.14" />
+    <MESSAGE value="4.14.face" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.14.face" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -554,7 +551,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day02/LeetCode380.java</url>
-          <line>70</line>
+          <line>69</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
       </breakpoints>
