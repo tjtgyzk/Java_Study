@@ -7,21 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="4.03">
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day01/FindFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day01/FindXPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day01/GLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day01/LeetCode_780.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day01/MaxLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day01/Near2Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day01/WaysToTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day02/BestSallary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day02/LeetCode380.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day02/ReceiveAndPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day02/ShortestSubSort.java" afterDir="false" />
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="4.14">
+      <change afterPath="$PROJECT_DIR$/src/myStudy/face/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-study/spring-study01/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-study/spring-study01/src/test/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myStudy/Zuo/heap/heapsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myStudy/Zuo/heap/heapsort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +223,7 @@
       <workItem from="1648628683509" duration="9093000" />
       <workItem from="1648754397267" duration="10844000" />
       <workItem from="1649408072043" duration="13615000" />
-      <workItem from="1649587630138" duration="15997000" />
+      <workItem from="1649587630138" duration="17494000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -426,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648921147232</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="4.14">
+      <created>1649929736678</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1649929736679</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -465,7 +460,8 @@
     <MESSAGE value="2.26" />
     <MESSAGE value="3.01" />
     <MESSAGE value="4.03" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.03" />
+    <MESSAGE value="4.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.14" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -558,7 +554,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day02/LeetCode380.java</url>
-          <line>69</line>
+          <line>70</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
       </breakpoints>
