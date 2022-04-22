@@ -7,7 +7,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="4.14.face" />
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="4.14.face">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/AreaSum/L238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/AreaSum/L303.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/AreaSum/L304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/Matrix/L118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/Matrix/L119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/Matrix/L419.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/Matrix/L661.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/MatrixChange/L289.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/MatrixChange/L48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/MatrixChange/L566.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/MatrixChange/L73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/MatrixDifferent/L498.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/MatrixDifferent/L54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/MatrixDifferent/L59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/MoveChange/L283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/MoveChange/L453.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/MoveChange/L665.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/StatisticalElement/L274.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/StatisticalElement/L41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/StatisticalElement/L442.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/StatisticalElement/L448.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Arrays/StatisticalElement/L697.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/L386.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/L819.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/L821.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/L824.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Round/L189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Round/L396.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Student/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Student/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +69,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.0" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.0" />
         <option name="userSettingsFile" value="F:\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -59,13 +90,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Software/QQ/QQFILES/864793683/FileRecv/chapter06/chapter06" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Software/QQ/QQFILES/864793683/FileRecv/chapter06/chapter06" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="background.image.plus" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -73,13 +104,13 @@
       <recent name="yu" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Main2">
-    <configuration name="LeetCode380" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.ShuaTi.Day02.LeetCode380" />
+  <component name="RunManager" selected="应用程序.L304">
+    <configuration name="L289" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Arrays.MatrixChange.L289" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.ShuaTi.Day02.*" />
+          <option name="PATTERN" value="LeetCode.Arrays.MatrixChange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Student.Main" />
+    <configuration name="L304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Arrays.AreaSum.L304" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Student.*" />
+          <option name="PATTERN" value="LeetCode.Arrays.AreaSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Student.Main2" />
+    <configuration name="L48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Arrays.MatrixChange.L48" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Student.*" />
+          <option name="PATTERN" value="LeetCode.Arrays.MatrixChange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.PrintU" />
+    <configuration name="L566" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Arrays.MatrixChange.L566" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="LeetCode.Arrays.MatrixChange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReceiveAndPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myStudy.Zuo.ShuaTi.Day02.ReceiveAndPrint" />
+    <configuration name="L73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Arrays.MatrixChange.L73" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myStudy.Zuo.ShuaTi.Day02.*" />
+          <option name="PATTERN" value="LeetCode.Arrays.MatrixChange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Main2" />
-        <item itemvalue="应用程序.Main" />
-        <item itemvalue="应用程序.PrintU" />
-        <item itemvalue="应用程序.LeetCode380" />
-        <item itemvalue="应用程序.ReceiveAndPrint" />
+        <item itemvalue="应用程序.L304" />
+        <item itemvalue="应用程序.L289" />
+        <item itemvalue="应用程序.L73" />
+        <item itemvalue="应用程序.L48" />
+        <item itemvalue="应用程序.L566" />
       </list>
     </recent_temporary>
   </component>
@@ -221,6 +252,9 @@
       <workItem from="1648754397267" duration="10844000" />
       <workItem from="1649408072043" duration="13615000" />
       <workItem from="1649587630138" duration="15997000" />
+      <workItem from="1650114821832" duration="13980000" />
+      <workItem from="1650223415414" duration="11640000" />
+      <workItem from="1650321702418" duration="45998000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -553,6 +587,46 @@
           <url>file://$PROJECT_DIR$/src/myStudy/Zuo/ShuaTi/Day02/LeetCode380.java</url>
           <line>69</line>
           <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Arrays/Matrix/L419.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Arrays/MatrixDifferent/L54.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Arrays/MatrixDifferent/L498.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Arrays/MatrixDifferent/L498.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Arrays/MatrixChange/L48.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Arrays/MatrixChange/L73.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Arrays/MatrixChange/L289.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Arrays/AreaSum/L304.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="101" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
