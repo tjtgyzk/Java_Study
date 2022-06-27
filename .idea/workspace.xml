@@ -8,56 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="6.7">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/L1037.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/L1051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/L1089.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/L1108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/L497.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/L498.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/L508.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/L513.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/L730.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/L890.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/L926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_108No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_84.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_85.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_87.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_89.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_92.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_93.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_95.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_96.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_97.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_99.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/twenty_four/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-09-22_19_57__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-09-22_19_57__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_11_2_15_40___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021_11_2_15_40___Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_9_28_18_36___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021_9_28_18_36___Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_114.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_114.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +45,8 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-11.0.11/lib/src.zip!/java.base/java/lang/Math.java" root0="SKIP_INSPECTION" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -109,21 +65,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Software/QQ/QQFILES/864793683/FileRecv/chapter06/chapter06" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="模块" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Coding/Java_Study/Java_Study",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "81344f777c2d082d293f909332578122"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="LeetCode.SwardOffer.II" />
@@ -289,6 +240,8 @@
       <workItem from="1653565894984" duration="108623000" />
       <workItem from="1654780325354" duration="25482000" />
       <workItem from="1655024081979" duration="53655000" />
+      <workItem from="1656327673456" duration="503000" />
+      <workItem from="1656328236968" duration="1072000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -530,7 +483,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="9.14" />
