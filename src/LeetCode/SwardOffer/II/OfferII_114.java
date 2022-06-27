@@ -14,7 +14,7 @@ public class OfferII_114 {
 
     public String alienOrder(String[] words) {
         int length = words.length;
-        // 先把每个字符创建空的边集加入map
+        // 先对每个字符点创建空的边集加入map
         for (String word : words) {
             int wordLength = word.length();
             for (int j = 0; j < wordLength; j++) {
