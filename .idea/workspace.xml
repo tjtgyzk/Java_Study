@@ -7,13 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="6.7">
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-09-22_19_57__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-09-22_19_57__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_11_2_15_40___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021_11_2_15_40___Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_9_28_18_36___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021_9_28_18_36___Changes_.xml" afterDir="false" />
+    <list default="true" id="1ea35837-9c99-4797-a2aa-e81dba7956da" name="Changes" comment="6.27.2">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/L215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/L324.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/SwardOffer/II/OfferII_07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,16 +62,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Coding/Java_Study/Java_Study",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "spring.configuration.checksum": "81344f777c2d082d293f909332578122"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Coding/Java_Study/Java_Study&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;81344f777c2d082d293f909332578122&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="LeetCode.SwardOffer.II" />
@@ -82,9 +79,9 @@
       <recent name="yu" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.test">
-    <configuration name="L1089" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.L1089" />
+  <component name="RunManager" selected="应用程序.L324">
+    <configuration name="L215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.L215" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L498" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.L498" />
+    <configuration name="L324" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.L324" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.L324" />
+        <item itemvalue="应用程序.L215" />
         <item itemvalue="应用程序.test" />
         <item itemvalue="应用程序.OfferII_117" />
         <item itemvalue="应用程序.OfferII_115" />
-        <item itemvalue="应用程序.L1089" />
-        <item itemvalue="应用程序.L498" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +238,8 @@
       <workItem from="1654780325354" duration="25482000" />
       <workItem from="1655024081979" duration="53655000" />
       <workItem from="1656327673456" duration="503000" />
-      <workItem from="1656328236968" duration="1072000" />
+      <workItem from="1656328236968" duration="6895000" />
+      <workItem from="1656423491424" duration="772000" />
     </task>
     <task id="LOCAL-00001" summary="9.15 noon">
       <created>1631694518685</created>
@@ -467,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654595213602</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="6.27.2">
+      <created>1656330016044</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1656330016044</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,7 +490,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="9.14" />
     <MESSAGE value="9.15 noon" />
     <MESSAGE value="9.18" />
     <MESSAGE value="9.22" />
@@ -510,7 +514,8 @@
     <MESSAGE value="5.22" />
     <MESSAGE value="5.26" />
     <MESSAGE value="6.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.7" />
+    <MESSAGE value="6.27.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.27.2" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -844,6 +849,11 @@
           <line>22</line>
           <option name="timeStamp" value="332" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/L324.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/LeetCode/SwardOffer/I/Offer07.java</url>
           <line>8</line>
@@ -861,14 +871,6 @@
         <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="edges.toArray()[3]" />
-        <watch expression="((Edge)edges.toArray()[2]).from" custom="myStudy.Zuo.Graph.LeetCode_1584.Edge" />
-        <watch expression="edges.toArray()[0]" />
-        <watch expression="edges.toArray()[0]" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
