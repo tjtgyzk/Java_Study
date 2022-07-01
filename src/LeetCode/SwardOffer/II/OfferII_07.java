@@ -23,6 +23,8 @@ public class OfferII_07 {
                 int pointC = nums.length - 1;
                 int target = -nums[i];
                 for (int j = i + 1; j < nums.length; j++) {
+
+                    
                     if (j == i + 1 || nums[j] != nums[j - 1]) {
                         while (j < pointC && nums[j] + nums[pointC] > target) {
                             pointC--;
